@@ -1,0 +1,141 @@
+body {
+    font-family: 'Cinzel', serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #42301F;
+}
+.container {
+    max-width: 1290px;
+    margin: auto;
+}
+.header {
+    background: #F5EBDB no-repeat;
+    background-image: url(/img/bg.jpg);
+}
+.logo {
+    font-family: Cinzel;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    color: #42301F;
+    margin-right: 140px;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 27px;
+}
+.navbar-menu {
+    margin-right: auto;
+}
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.menu-link {
+    text-decoration: none;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    color: #42301F;
+    margin-right: 32px;
+    letter-spacing: 0.025em;
+}
+.wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.offer {
+    margin-top: 192px;
+    margin-bottom: 226px;
+}
+.one {
+    font-family: Cinzel;
+    font-weight: normal;
+    font-size: 22px;
+    color: #42301F;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.title {
+    font-family: Cinzel;
+    font-weight: normal;
+    font-size: 85px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.text {
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 20px;
+    letter-spacing: 0.025em;
+    max-width: 536px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.button {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-top: 70px;
+}
+.button-link {
+    text-decoration: none;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 18px;
+    color: #42301F;
+    margin-right: 32px;
+    letter-spacing: 0.025em;
+}
+.add {
+    position: absolute;
+    right: 0;
+    padding-top: 170px;
+    margin-top: 430px;
+    transform: rotate(-90deg);
+}
+.adding {
+    font-family: Cinzel;
+    font-weight: normal;
+    font-size: 24px;
+    color: #F5EBDB;
+}
+.discription {
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+.about1 {
+    text-align: center;
+    background: #EFE3D0;
+}
+.h3 {
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 24px;
+    letter-spacing: 0.025em;
+    margin: 0;
+}
+.section-titile {
+    font-family: Cinzel;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    margin-top: 12px;
+    margin-bottom: 22px;
+}
+.text-discription {
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 20px;
+    letter-spacing: 0.025em;
+    margin-top: 32px;
+    text-align: center;
+    width: 408px;
+    margin-left: 34%;
+}
